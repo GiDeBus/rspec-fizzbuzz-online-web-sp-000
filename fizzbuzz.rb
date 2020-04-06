@@ -8,7 +8,7 @@ def fizzbuzz(number)
   elsif  number % 5 == 0
     #if the variable number is divisible by 5
     return "Buzz"
-  elsif number 3 % == 0 and number 5 % == 0
+  elsif number 3 % == 0 && number 5 % == 0
     #if the variable number is divisible by both 3 and 5
     return "FizzBuzz"
   else 
