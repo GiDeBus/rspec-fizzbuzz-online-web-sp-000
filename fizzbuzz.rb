@@ -5,13 +5,4 @@ def fizzbuzz(number)
   if number % 3 == 0 
     #if the variable number is divisible by 3
     return "Fizz"
-  elsif  number % 5 == 0
-    #if the variable number is divisible by 5
-    return "Buzz"
-  elsif number 3 % == 0 && number 5 % == 0
-    #if the variable number is divisible by both 3 and 5
-    return "FizzBuzz"
-  else 
-    return number
-  end
 end
